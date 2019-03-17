@@ -26,7 +26,7 @@ console.log(RUNTIME);
 // A list of local resources we always want to be cached.
 const PRECACHE_URLS = [
   'mm.html',
-  'https://i.imgur.com/5dZn6sc.png',
+  'https://yt3.ggpht.com/a-/AAuE7mDL97E7bIJPVnsVyWoK57HH2Nosmrvc_Io-4Q=s288-mo-c-c0xffffffff-rj-k-no',
 ];
 
 // The install handler takes care of precaching the resources we always need.
